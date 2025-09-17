@@ -1,5 +1,10 @@
 # Refatoração e Estrutura do Projeto App_Consulta
 
+-- Integrantes:
+-- Vinicius Murtinho Vicente - RM551151
+-- Lucas Barreto Consentino - RM557107
+-- Gustavo Bispo Cordeiro - RM558515
+
 Este repositório passou por uma refatoração completa para melhorar a organização, manutenção e escalabilidade do código.
 
 ## O que foi feito
